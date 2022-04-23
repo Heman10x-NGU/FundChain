@@ -1,5 +1,7 @@
+<h2>A decentralized CrowdFunding Platform Made on Blockchain</h2>
+
 ## Contributers
-Jatin Soni | Hemant Kumar | Dhruvil Hirpara | Prince Mendiratta
+ Hemant Kumar || Jatin Soni | Dhruvil Hirpara | Prince Mendiratta
 
 ## Detailed Report and PPT
 - A video presentation of the Project can be [found here](https://drive.google.com/drive/folders/17vXqLRU2BRRNpVA6rdyMfPYSWPh_mZRX?usp=sharing)
